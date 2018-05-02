@@ -1,0 +1,11 @@
+
+ Enter number of elements you want to sort:2
+Enter Element 1: 4
+Enter Element 2: 1
+Initial Array Elements are: [ 4 1 ]
+
+ #1, B: [ 1 4 ]
+
+ #1, M: [ 1 4 ]
+Bubble Sort completed sorting the array in 1 steps.
+Merge Sort completed sorting the array in 1 steps.
